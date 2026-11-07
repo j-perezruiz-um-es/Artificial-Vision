@@ -1,0 +1,14 @@
+# Dataset y modelo entrenado (archivos grandes)
+dataset_recortado/
+mvtec_screws_v1.0/
+*.pth
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
